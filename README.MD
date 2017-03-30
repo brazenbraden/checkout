@@ -4,7 +4,7 @@ The purpose of this little project is to provide a simple interface to a checkou
 
 Simple usage of the classes are as follows:
 
-`
+```
 # Define the promotional rules
 rules = {
   total: {
@@ -26,5 +26,5 @@ rules = {
 
 #Finally, checkout the basket to view the total amount owed
 @checkout.total
-`
+```
 
